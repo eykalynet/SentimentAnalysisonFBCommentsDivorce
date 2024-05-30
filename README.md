@@ -1,0 +1,1 @@
+This repository contains the code and data for the project "Marital Sentiment Orientation of Filipinos on the Absolute Divorce Bill: Evidence via a Natural Language Processing Approach." The project utilizes natural language processing (NLP) techniques to analyze and interpret the sentiments of Filipinos towards the Absolute Divorce Bill.
